@@ -27,9 +27,9 @@ const playFunc = (e) => {
   if (e.target.id.includes('smallFun')) {
     let domString = fun;
     const smallFun = domString + 2;
-    if (smallFun < 0) {
-      domString = 0;
-      updatePlayScore(0);
+    if (smallFun > 100) {
+      domString = 100;
+      updatePlayScore(100);
     } else {
       domString = smallFun;
       updatePlayScore(smallFun);
