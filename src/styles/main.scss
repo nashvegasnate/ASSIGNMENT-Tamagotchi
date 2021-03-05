@@ -12,7 +12,7 @@ body {
   background: red;
   border: solid #000;
   border-width: 0 10px 10px 0;
-}
+  }
 
   #play {
   position: absolute;
@@ -44,4 +44,36 @@ body {
   bottom: 0;
   background: green;
   }
+};
+
+  #goodFood {
+    width: 250px;
+  };
+  
+  #junkFood {
+    width: 250px;
+  };
+
+  #bigFun {
+    width: 250px;
+  };
+
+  #smallFun {
+    width: 250px;
+  };
+
+  #nap {
+    width: 250px;
+  };
+
+  #slumber {
+    width: 250px;
+  };
+
+  #run {
+    width: 250px;
+  };
+
+  #violence {
+    width: 250px;
   };
