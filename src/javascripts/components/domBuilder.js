@@ -29,7 +29,7 @@ const domBuilder = () => {
                                                   <div id='sleepScore'>50</div>
                                                   <hr>
                                                   <button id='nap' class='btn btn-dark'>NAP<br>+50</button>
-                                                  <button id='deepSlumber' class='btn btn-dark'>DEEP SLUMBER<br>+60</button>
+                                                  <button id='slumber' class='btn btn-dark'>DEEP SLUMBER<br>+60</button>
                                                 </div>`;
 };
 
