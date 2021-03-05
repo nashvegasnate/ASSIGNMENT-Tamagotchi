@@ -20,7 +20,7 @@ const domBuilder = () => {
                                                   <hr>
                                                   <div id='fightScore'>100</div>
                                                   <hr>
-                                                  <button id='runAway' class='btn btn-dark'>RUN AWAY<br>+1</button>
+                                                  <button id='run' class='btn btn-dark'>RUN AWAY<br>+1</button>
                                                   <button id='violence' class='btn btn-dark'>COMMIT VIOLENCE<br>-10</button>
                                                 </div>`;
   document.querySelector('#sleep').innerHTML = `<div id='main-container'>
