@@ -1,4 +1,5 @@
 import { eatFunc } from '../components/eat';
+import { playFunc } from '../components/play';
 
 const buttonEvents = () => {
   document.querySelector('#goodFood').addEventListener('click', eatFunc);
