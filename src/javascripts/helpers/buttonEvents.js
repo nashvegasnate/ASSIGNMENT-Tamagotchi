@@ -1,5 +1,13 @@
 const buttonEvents = (e) => {
-  
+  document.querySelector('#healthy').addEventListener('click', eatFunc);
+  document.querySelector('#unhealthy').addEventListener('click', eatFunc);
+  document.querySelector('#bigFun').addEventListener('click', playFunc);
+  document.querySelector('#smallFun').addEventListener('click', playFunc);
+  document.querySelector('#run').addEventListener('click', fightFunc);
+  document.querySelector('#violence').addEventListener('click', fightFunc);
+  document.querySelector('#nap').addEventListener('click', sleepFunc);
+  document.querySelector('#slumber').addEventListener('click', sleepFunc);
+
 }
 
 export default buttonEvents;
