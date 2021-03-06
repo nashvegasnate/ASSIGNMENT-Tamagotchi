@@ -7,7 +7,7 @@ const domBuilder = () => {
                                                 <div class='d-flex justify-content-around'>
                                                 <button id='goodFood' class='btn btn-dark'>HEALTHY<br>+10</button>
                                                 <button id='junkFood' class='btn btn-dark'>UNHEALTHY<br>-3</button>
-                                                </div>
+                                                </div>                                                
                                               </div>`;
   document.querySelector('#play').innerHTML = `<div id='main-container'>
                                                 <div id='playTitle' class='d-flex justify-content-center'>PLAY</div>
