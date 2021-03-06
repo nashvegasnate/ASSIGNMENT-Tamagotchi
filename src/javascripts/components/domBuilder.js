@@ -32,7 +32,7 @@ const domBuilder = () => {
   document.querySelector('#sleep').innerHTML = `<div id='main-container'>
                                                   <div id='sleepTitle' class='d-flex justify-content-center'>SLEEP</div>
                                                   <hr>
-                                                  <div id='sleepScore' class='text-center'>50</div>
+                                                  <div id='sleepScore' class='d-flex justify-content-around'>50</div>
                                                   <hr>
                                                   <div class='d-flex justify-content-around'>
                                                   <button id='nap' class='btn btn-dark'>NAP<br>+50</button>
