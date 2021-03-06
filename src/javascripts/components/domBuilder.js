@@ -1,6 +1,6 @@
 const domBuilder = () => {
   document.querySelector('#eat').innerHTML = `<div id='main-container'>
-                                                <div id='eatName'>EAT</div>
+                                                <div id='eatName' class='d-flex justify-content-center'>EAT</div>
                                                 <hr>
                                                 <div id='eatScore'>100</div>
                                                 <hr>
