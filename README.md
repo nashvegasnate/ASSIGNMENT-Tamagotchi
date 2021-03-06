@@ -20,7 +20,7 @@ Nathan Keith
 https://github.com/nashvegasnate
 
 ## Link to Loom Video
-https://www.loom.com/share/a963a08642db437bb39323b1256d0c81# Tamagotchi
+https://www.loom.com/share/0d65390c7fa042b9a7f8a843b2f0cc4a
 
 ## Link to Deployment on Netlify
 https://gallant-ptolemy-7ef608.netlify.app/
