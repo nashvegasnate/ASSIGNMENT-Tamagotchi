@@ -14,7 +14,7 @@ The fight function starts at 100 and its values can decrease by 10 points for ha
 None of the values can reach more than 100.
 
 Screenshot
-'./Tamagotchi.png'
+<img width="600" src="https://user-images.githubusercontent.com/76710923/110222673-89af5f80-7e99-11eb-8345-db8839d5a5d0.png">
 
 List of Features
 The Tamagotchi app consists of modularized code containing HTML, SCSS, JS.
