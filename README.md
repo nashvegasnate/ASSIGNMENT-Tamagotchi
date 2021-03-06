@@ -23,4 +23,4 @@ https://github.com/nashvegasnate
 https://www.loom.com/share/a963a08642db437bb39323b1256d0c81# Tamagotchi
 
 ## Link to Deployment on Netlify
-
+https://gallant-ptolemy-7ef608.netlify.app/
