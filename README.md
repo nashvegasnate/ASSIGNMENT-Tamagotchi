@@ -1,6 +1,6 @@
-## Tamagotchi
+# Tamagotchi
 
-# Overview
+## Overview
 The Tamagotchi is a virtual pet that you can take care of and control. There are four quadrants assigned to different actions: eat, play, sleep, and fight.
 
 The eat function starts at 100 and its values can decrease by 3 points if you feed your Tamgotchi unhealthy food, however, that amount can increase by 10 points if you feed it healthy food.
@@ -9,15 +9,18 @@ The sleep function starts at 50 and its values can increase by either 50 points 
 The fight function starts at 100 and its values can decrease by 10 points for having the Tamagotchi commit violence or increase by 1 point for running away.
 None of the values can reach more than 100.
 
-# Screenshot
+## Screenshot
 <img width="600" src="https://user-images.githubusercontent.com/76710923/110222673-89af5f80-7e99-11eb-8345-db8839d5a5d0.png">
 
-# List of Features
+## List of Features
 The Tamagotchi app consists of modularized code containing HTML, SCSS, JS.
 
-# Contributor and GitHub Link
+## Contributor and GitHub Link
 Nathan Keith
 https://github.com/nashvegasnate
 
-# Link to Loom Video
+## Link to Loom Video
 https://www.loom.com/share/a963a08642db437bb39323b1256d0c81# Tamagotchi
+
+## Link to Deployment on Netlify
+
