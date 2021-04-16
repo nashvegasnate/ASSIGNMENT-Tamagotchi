@@ -23,4 +23,4 @@ https://github.com/nashvegasnate
 https://www.loom.com/share/0d65390c7fa042b9a7f8a843b2f0cc4a
 
 ## Link to Deployment on Netlify
-https://gallant-ptolemy-7ef608.netlify.app/
+https://nk-tamagotchi.netlify.app/
