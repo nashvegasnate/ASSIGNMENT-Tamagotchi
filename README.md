@@ -1,5 +1,5 @@
 # Tamagotchi
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6e59112-e85a-4f1e-a1bb-23854647c790/deploy-status)](https://app.netlify.com/sites/nk-tamagotchi/deploys)
 ## Overview
 The Tamagotchi is a virtual pet that you can take care of and control. There are four quadrants assigned to different actions: eat, play, sleep, and fight.
 
